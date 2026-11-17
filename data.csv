@@ -1,0 +1,5 @@
+timestamp,item,qty_sold,unit_price_inr,stock_left_after,stockout_flag
+08:04,milk_500ml,2,28,11,no
+08:11,potato_kg,1.5,30,12.5,no
+08:18,tomato_kg,0.5,40,0,yes
+08:25,biscuit_10,3,10,14,no
